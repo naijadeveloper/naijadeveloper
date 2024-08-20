@@ -1,10 +1,10 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)](https://naijadev.vercel.app/)
+[![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5)](https://naijadev.vercel.app/)
 <h1 align="center">Hello / Saluton / こんにちは。👋🏾, I am Enoch Enujiugha</h1>
 <h3 align="center">I am passionate about software development and architecture</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
 
 
-<p align="left"> <a href="https://twitter.com/naijadeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/naijadeveloper?logo=twitter&style=for-the-badge" alt="naijadeveloper" /></a> </p>
+<p align="left"> <a href="https://twitter.com/naijadeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/naijadeveloper?logo=x&style=for-the-badge" alt="naijadeveloper" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Django, Typescript, NextJs, Dart, Flutter**
 
@@ -33,8 +33,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mmejuenoch"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mmejuenoch" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naijadeveloper&show_icons=true&locale=en&layout=compact" alt="naijadeveloper" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naijadeveloper&show_icons=true&locale=en" alt="naijadeveloper" /></p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naijadeveloper&show_icons=true&locale=en&layout=compact" alt="naijadeveloper" /></p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=naijadeveloper&show_icons=true&locale=en" alt="naijadeveloper" /></p>
 
